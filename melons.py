@@ -21,3 +21,27 @@ melon_seedlessness = {
     4: False,
     5: False,
 }
+
+flesh_color = {
+    1: None,
+    2: None,
+    3: None,
+    4: None,
+    5: None,
+}
+
+weight = {
+    1: None,
+    2: None,
+    3: None,
+    4: None,
+    5: None,
+}
+
+rind_color = {
+    1: None,
+    2: None,
+    3: None,
+    4: None,
+    5: None,
+}
